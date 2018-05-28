@@ -4,7 +4,7 @@
       <el-row>
         <el-col :span='7' class="pos-order" id="order-list">
           <el-tabs>
-            <el-tab-pane label="点餐">
+            <el-tab-pane label="点餐aa">
               <el-table :data="tableData" border style="width: 100%">
                 <el-table-column prop="goodsName" label="商品名称"></el-table-column>
                 <el-table-column prop="count" label="数量" width="50"></el-table-column>
